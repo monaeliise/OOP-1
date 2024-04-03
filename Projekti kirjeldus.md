@@ -72,4 +72,4 @@ Lõpptulemus on rahuldav, mäng töötab. Kuigi prinditavad read on asjalikud, l
 Failist andmete lugemisel testisin, et programm pääseb juurde kõikidele sõnadele mis etteantavas failis on, siis testisin juurdepääsu esimesele sõnale, ja siis suvalisele sõnale.
 Meetodi prindiMees kirjutamisel testisin jooksvalt, milline kriipsujuku välja näeb kui vale sisend sisestada, kohendasin tühikuid ja prinditavaid ridu.
 Programmi jooksutamisel ja kirjutamisel hoidsin alles rea, mis terminalis koguaeg näitaks äraarvatavat sõna. Lõpus kommenteerisin selle rea välja, jätsin välja kommenteeritud kujul ta koodi sisse, et vajadusel oleks mugavam koodi testida.
-Programmi iga tsükli alguses (ehk iga kord kui programm palub mängijal täht sisestada), kujutatakse SõnaSeis.
+Programmi iga tsükli alguses (ehk iga kord kui programm palub mängijal tähte sisestada), kujutatakse SõnaSeis.
